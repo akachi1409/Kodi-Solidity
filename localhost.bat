@@ -1,0 +1,1 @@
+remixd -s E:\Blockchain\Solidity\Kodi --remix-ide https://remix.ethereum.org
